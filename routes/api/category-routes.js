@@ -20,7 +20,7 @@ router.get('/', async (req, res) => {
 router.get('/:id', async (req, res) => {
   // find one category by its `id` value
   try {
-    const categoryData = await Category.findByPk(req.params.id, {
+    const categoryData = await Category.findOne(req.params.id, {
       // be sure to include its associated Products
       include: [{ model: Product }],
     });
@@ -40,7 +40,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-router.put('/:id', async (req, res) => {
+router.put('/:id', (req, res) => {
   // update a category by its `id` value
   Category.update(
     {
