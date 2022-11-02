@@ -37,7 +37,6 @@ To run via local environment:
     - mysql2 `npm install --save mysql2` 
     - sequelize `npm install --save sequelize` 
     - dotenv `npm i dotenv-save` 
-    - console.table `npm i console.table`
     
     Continue in command line:
     - `mysql -u root -p` 
