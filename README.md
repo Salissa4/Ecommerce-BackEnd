@@ -16,9 +16,9 @@ Build a back end for an e-commerce site by modifying starter code. Configure a w
 
 ## Usage
 
-Live on [Screencastify]() 
+Live on [Screencastify](https://drive.google.com/file/d/1pB2UEZSyKIADsNxwvJoQk0ahOne82-xx/view) 
 
-![Ecommerce-BackEnd](/assets/demo.png)
+![Ecommerce-BackEnd](/assets/backend-view.png)
 
 ## Installation
 
