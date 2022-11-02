@@ -51,7 +51,7 @@ To run via local environment:
 
 ## Credits
 
-Collab/debug: Shawn Tschoepe Github: https://github.com/shawn220a
+Debug: Shawn Tschoepe Github: https://github.com/shawn220a
 
 ## License
 
