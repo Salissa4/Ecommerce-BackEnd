@@ -44,7 +44,6 @@ To run via local environment:
 
     Once mysql is running 
     - `source db/schema.sql;`  
-    proceed to quit 
     - `quit;`
 
 5.  Seed data: `npm run seed`
